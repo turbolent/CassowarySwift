@@ -1,5 +1,6 @@
 # CassowarySwift
 
+[![Build Status](https://travis-ci.org/turbolent/CassowarySwift.svg)](https://travis-ci.org/turbolent/CassowarySwift)
 [![Version](https://img.shields.io/cocoapods/v/CassowarySwift.svg?style=flat)](http://cocoapods.org/pods/CassowarySwift)
 [![License](https://img.shields.io/cocoapods/l/CassowarySwift.svg?style=flat)](http://cocoapods.org/pods/CassowarySwift)
 [![Platform](https://img.shields.io/cocoapods/p/CassowarySwift.svg?style=flat)](http://cocoapods.org/pods/CassowarySwift)
