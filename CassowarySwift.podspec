@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license                = 'MIT'
   s.author                 = { "Bastian Müller" => "bastian@turbolent.com" }
   s.source                 = { :git => "https://github.com/turbolent/CassowarySwift.git", :tag => s.version.to_s }
-  s.ios.deployment_target  = '7.0'
+  s.ios.deployment_target  = '8.0'
   s.osx.deployment_target  = '10.9'
   s.requires_arc           = true
   s.source_files           = 'Pod/Classes/**/*'
