@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'CassowarySwift_Example' do
+  pod 'CassowarySwift', :path => '../'
+end
+
+target 'CassowarySwift_Tests' do
+  pod 'CassowarySwift', :path => '../'
+
+  pod 'Nimble', '~> 3.0'
+end
